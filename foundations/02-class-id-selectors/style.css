@@ -1,0 +1,21 @@
+.odd{
+    background-color: #ffb6c1;
+    font-family: Verdana, sans-serif;
+}
+
+#second-element{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    font-size: 36px;
+}
+
+#fourth-element{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(149, 245, 149);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#third-element{
+    font-size: 24px;
+}
